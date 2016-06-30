@@ -1,0 +1,24 @@
+{
+  "name": "leaflet-marker-menu",
+  "version": "0.0.1",
+  "description": "Leaflet plugin adds animated circular menus to markers",
+  "main": "leaflet-marker-menu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umurgdk/leaflet-marker-menu.git"
+  },
+  "keywords": [
+    "leaflet",
+    "marker",
+    "menu"
+  ],
+  "author": "Umur Gedik <umurgdk@gmail.com> (http://umurgdk.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umurgdk/leaflet-marker-menu/issues"
+  },
+  "homepage": "https://github.com/umurgdk/leaflet-marker-menu#readme"
+}
